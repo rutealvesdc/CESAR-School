@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['bald', 'hat', 'helmet', 'nothing']
+
+roboflow:
+  workspace: rac3
+  project: helmet_etc_dataset
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/rac3/helmet_etc_dataset/dataset/1
