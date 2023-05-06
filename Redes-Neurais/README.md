@@ -1667,12 +1667,16 @@ O modelo treinado possui performance de **90,97%**.
 
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
+Batch
 ![Batch](https://github.com/rutealvesdc/CESAR-School/blob/main/Redes-Neurais/assets/val_batch0_pred.jpg)
 
-![Loss](https://github.com/rutealvesdc/CESAR-School/blob/main/Redes-Neurais/assets/W%26B Chart 01_05_2023 12 02 04.pn)
+Loss
+![Loss](https://github.com/rutealvesdc/CESAR-School/blob/main/Redes-Neurais/assets/W%26B%20Chart%2001_05_2023%2012%2004%2012.png)
 
+Precision
 ![Precision](https://github.com/rutealvesdc/CESAR-School/blob/main/Redes-Neurais/assets/W%26B%20Chart%2001_05_2023%2012%2002%2004.png)
 
+Confusion Matrix
 ![Confusion Matrix](https://github.com/rutealvesdc/CESAR-School/blob/main/Redes-Neurais/assets/confusion_matrix.png)
 
 ## Roboflow
