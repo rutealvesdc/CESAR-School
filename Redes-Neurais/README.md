@@ -6,6 +6,13 @@
 |--|--|--|
 | Detecção de Objetos | YOLOv5m | PyTorch |
 
+O objetivo do projeto foi identificar se uma pessoa está usando capacete de construção civil corretamente ou não. Para tal, foram capturadas, da internet, no mínimo 75 imagens de cada classe conforme disposição a seguir:
+
+   - Pessoas usando capacete de construção civil (helmet)
+   - Pessoas usando outros acessórios na cabeça (hats)
+   - Pessoas sem nada na cabeça (nothing)
+   - Pessoas calvas (bald)
+
 ## Performance
 
 O modelo treinado possui performance de **90,97%**.
