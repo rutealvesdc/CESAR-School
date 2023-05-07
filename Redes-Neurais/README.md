@@ -1672,8 +1672,6 @@ O modelo treinado possui performance de **90,97%**.
 
 ### Evidências do treinamento
 
-Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
-
 Batch
 ![Batch](https://github.com/rutealvesdc/CESAR-School/blob/main/Redes-Neurais/assets/val_batch0_pred.jpg)
 
