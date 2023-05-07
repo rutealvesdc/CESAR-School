@@ -1686,6 +1686,4 @@ Confusion Matrix
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
-
-Exemplo de link: [helmet_etc_dataset](https://app.roboflow.com/rac3/helmet_etc_dataset/1)
+Link para acessar o dataset no Roboflow: [helmet_etc_dataset](https://app.roboflow.com/rac3/helmet_etc_dataset/1)
